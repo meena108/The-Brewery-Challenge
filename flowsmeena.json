@@ -1,0 +1,3220 @@
+[
+    {
+        "id": "5cbb198b56d0ecba",
+        "type": "tab",
+        "label": "Brewery",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "81490862a5ebe59c",
+        "type": "group",
+        "z": "5cbb198b56d0ecba",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "a99c7e564a04d0fa",
+            "7d03367ddd888060",
+            "5e1a38b0d2835bd3",
+            "2dce87089532c350",
+            "e2aa371c4dca5c15",
+            "03bf62140150c921",
+            "28f87896fb47c0a3",
+            "8d10301c4aa4125e",
+            "269dcaadba0d8c7c",
+            "d20d46cd6b32f14d",
+            "753be7bd1828fcb8"
+        ],
+        "x": 2734,
+        "y": 39,
+        "w": 1072,
+        "h": 302
+    },
+    {
+        "id": "60f1331fb7404f9c",
+        "type": "group",
+        "z": "5cbb198b56d0ecba",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "77e1d3e503fd33a7",
+            "a0f31ba79af9fc36",
+            "e94ae38c4598aefa",
+            "19b957a3e88bc88a",
+            "d6c49f3987ab1382",
+            "d7ba3b3233cdb426",
+            "c0c23d504017a1aa",
+            "cfc834ccb42ba7f3",
+            "a148f376f79116fb",
+            "521d2501979d0ef7",
+            "fa47bf149963e2cd",
+            "95d8c8b5b770de36",
+            "67adbd86d462e2f6",
+            "319030fe7aa776a3"
+        ],
+        "x": 1224,
+        "y": 59,
+        "w": 1282,
+        "h": 322
+    },
+    {
+        "id": "17c1a86d48ce032b",
+        "type": "group",
+        "z": "5cbb198b56d0ecba",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "14d2215cc13e881d",
+            "c5b28f7838de964a",
+            "b51ea682ac323053",
+            "405a3876f228745a",
+            "4eb6a37b0b3972f5",
+            "b629dabc2e5d37ea",
+            "73f221ceeaa351e4",
+            "9a0f7edb75322bdc",
+            "b7479b4c4c16bd65",
+            "bc0427dabc9e5e9d",
+            "bff9491802d22c98",
+            "68e2f55eb2f314a8",
+            "0d524272b905f5ce",
+            "8d21e932e095cfc5",
+            "c1a807191e38f919",
+            "c13c1812018407a2",
+            "990dcbeb9da6d41a",
+            "e7618ea372fb2237",
+            "bfc5794ba13c1ee0",
+            "84430817d8e8eda3"
+        ],
+        "x": 44,
+        "y": 1059,
+        "w": 1902,
+        "h": 442
+    },
+    {
+        "id": "d0c4edfad7a152e8",
+        "type": "group",
+        "z": "5cbb198b56d0ecba",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f09cb5d97fd3de98",
+            "11d789d2ea2587d9",
+            "c18fa8e2bcd1673c",
+            "403120b64cb055ec",
+            "8b9437a18ef2870d",
+            "742768dd39526713",
+            "c81ad9043fbcb93d",
+            "5bb7af43402c7333",
+            "913235b69d45632c",
+            "a72b41353c54ac10",
+            "ebd668ee4afe4021",
+            "9c52f03bf0dcea77",
+            "0ead08b148e53355",
+            "24b018d9769d313c",
+            "c1d5a59ab154e790"
+        ],
+        "x": 254,
+        "y": 559,
+        "w": 1692,
+        "h": 342
+    },
+    {
+        "id": "82a5b069f7aa3d84",
+        "type": "group",
+        "z": "5cbb198b56d0ecba",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f0b5a4cf06393bc4",
+            "c8a3e326b64b8bba",
+            "8e6bd1e16fc73431",
+            "28d7d9ba7bb0fead",
+            "66cec12e77daa14d",
+            "eb91550830c96fe4",
+            "8e5e832a3c0751ae",
+            "8d7d11225b815552",
+            "1547f082482c5abc",
+            "692465fd0d67e285",
+            "930a7672bb470551",
+            "4a09c0a1f868a70f"
+        ],
+        "x": 74,
+        "y": 59,
+        "w": 1032,
+        "h": 362
+    },
+    {
+        "id": "e2c084068f7559d7",
+        "type": "group",
+        "z": "5cbb198b56d0ecba",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6cb616eb384a573f",
+            "7cd96557122ca734",
+            "9eb9b9506a37189a",
+            "706e2fc1cc9dd88a",
+            "dda6d57b2dde301d",
+            "29c4da600337a3b6",
+            "9baaec4fa9d87fe0",
+            "79c4eff12cfe3f17",
+            "346c38b1ebc9bff7",
+            "1b5b292f5a6a50d0",
+            "3234548cfed458c6",
+            "e840e9c259cd163e",
+            "6d31dff4d5dbea16",
+            "c54dc80325e4f865",
+            "29743140224674e6",
+            "581ba149ddbed4d9",
+            "decc02ccf16744ec",
+            "7096eb42ae5c1d18",
+            "acf8e3efbce9556b",
+            "c45d16d4be3d6b92",
+            "51792269e36399ae",
+            "cec1d25559945bd7",
+            "05bc2192584c2192",
+            "e6e8a7a6807cc899",
+            "99cbfbc7d7be8dbb",
+            "8ead4a9c663c0f45",
+            "b169f4365db16a90",
+            "4fa43deeab1709c1"
+        ],
+        "x": 34,
+        "y": 1579,
+        "w": 2258,
+        "h": 888
+    },
+    {
+        "id": "1b685dff7360ac41",
+        "type": "group",
+        "z": "5cbb198b56d0ecba",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6292a7f2a736d2a6",
+            "6ba6b2175ed8c015",
+            "4ff9e2b8e1104934",
+            "86930e3d6f566250",
+            "13fbd23e4e0f3ae9",
+            "fa574a12d908bbb1",
+            "39899466b8da44da",
+            "2dc4f9d3f024836e",
+            "4e22f3dbdb936339",
+            "90c067d72edcf124",
+            "733c338e6b15aeae",
+            "caf540bb2b155243",
+            "857400ea424d297b",
+            "e75c512031f81bbc",
+            "73160dd845a329c7",
+            "b2b4b8f794062e3b",
+            "aa96d05f2b4b2a93"
+        ],
+        "x": 2094,
+        "y": 539,
+        "w": 1072,
+        "h": 822
+    },
+    {
+        "id": "99cbfbc7d7be8dbb",
+        "type": "group",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "32bc5dbcbb7d92a9",
+            "8520b509bfab8f5e",
+            "248ac54647da0741",
+            "242042e2dbc1b3e4",
+            "c845b68895fc0b3c",
+            "009f86b0d2300728"
+        ],
+        "x": 1874,
+        "y": 2259,
+        "w": 392,
+        "h": 182
+    },
+    {
+        "id": "8c1a22851e5e777a",
+        "type": "ui_form",
+        "z": "5cbb198b56d0ecba",
+        "name": "Brewery Team",
+        "label": "Brewery Team 1",
+        "group": "bcd9a2dd96c5ec1b",
+        "order": 3,
+        "width": 8,
+        "height": 1,
+        "options": [
+            {
+                "label": "Deliveries Email",
+                "value": "deliver",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Management  Email",
+                "value": "manage",
+                "type": "text",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "deliver": "",
+            "manage": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 360,
+        "y": 2840,
+        "wires": [
+            [
+                "56b7fc86aebcc109"
+            ]
+        ]
+    },
+    {
+        "id": "56b7fc86aebcc109",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "name": "function 68",
+        "func": "// Get manager and delivery email from payload\nlet manage = msg.payload.manage || \"\";\nlet deliver = msg.payload.deliver || \"\";\n\n// Default email if empty\nconst defaultEmail = \"nidhimonica123@gmail.com\";\n\n// Check if manager email is empty and set default\nif (manage.trim() === \"\") {\n    manage = defaultEmail;\n}\n\n// Check if delivery email is empty and set default\nif (deliver.trim() === \"\") {\n    deliver = defaultEmail;\n}\n\n// Store values globally\nglobal.set('memail', manage);\nglobal.set('demail', deliver);\n\n// Return updated message\nmsg.payload = {\n    manager_email: manage,\n    delivery_email: deliver\n};\n\nreturn msg;\n\n\n\n\n\n\n\n\n\n// let manage = msg.payload.manage\n// let deliver = msg.payload.deliver\n\n// global.set('memail', manage)\n// global.set('demail', deliver)\n\n// return msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 2840,
+        "wires": [
+            [
+                "0bef01d4b177d1f8"
+            ]
+        ]
+    },
+    {
+        "id": "0bef01d4b177d1f8",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "name": "function 69",
+        "func": "var manage = global.get('memail') \nvar deliver = global.get('demail')\n\nmsg.payload = manage\nmsg.topic = deliver\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 2840,
+        "wires": [
+            [
+                "6940d71556c0ef9a"
+            ]
+        ]
+    },
+    {
+        "id": "6940d71556c0ef9a",
+        "type": "debug",
+        "z": "5cbb198b56d0ecba",
+        "name": "debug 222",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1090,
+        "y": 2840,
+        "wires": []
+    },
+    {
+        "id": "f84e0bbc47ed1415",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "name": "Advise Customer that order is ready",
+        "func": "var person = 'nidhimonica123@gmail.com'\nvar delever = msg.delever \n\nif (delever == true){\nmsg.topic = \"i-Brew Delivery Advice\"; // subjec\nmsg.payload = ` <head> <h1> Your Daily Order of Max Strenth 'Old Burgler' is on it's way. </h1> </head > \n<body> <h2> Driver will deliver between 13:47 and 14:11. </h2>  \n<p> P.S.  Driver will pick up yesterdays empties, as usual! </p> </body>`; // message to\nmsg.to = person ;  \nmsg.from = \"iBrew & Co\";  // from\n}else {\n    return null;\n}\n\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1540,
+        "y": 2580,
+        "wires": [
+            [
+                "2bfe5be6c87def30",
+                "20110a21f08e271d"
+            ]
+        ]
+    },
+    {
+        "id": "2bfe5be6c87def30",
+        "type": "debug",
+        "z": "5cbb198b56d0ecba",
+        "name": "debug 1020",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1810,
+        "y": 2520,
+        "wires": []
+    },
+    {
+        "id": "a99c7e564a04d0fa",
+        "type": "ui_gauge",
+        "z": "5cbb198b56d0ecba",
+        "g": "81490862a5ebe59c",
+        "name": " INGREDIENT COUNT",
+        "group": "a9fdbdc4a3d93ad3",
+        "order": 6,
+        "width": 8,
+        "height": 7,
+        "gtype": "compass",
+        "title": "INGREDIENT COUNT",
+        "label": "BAILS",
+        "format": "{{value | number}}",
+        "min": 0,
+        "max": "1000",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "45",
+        "seg2": "85",
+        "className": "",
+        "x": 3680,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "7d03367ddd888060",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "81490862a5ebe59c",
+        "name": "Maintain Hop Count",
+        "func": "\nvar hops = flow.get('hopcount') || 1;\n\n\n\n// let hoptot = parseInt(hopcount, 10)\n\nlet hopadd = hops +1\n\n\nflow.set('hopcount', hopadd)\n\nmsg.value = hopadd\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3240,
+        "y": 300,
+        "wires": [
+            [
+                "a99c7e564a04d0fa",
+                "5e1a38b0d2835bd3"
+            ]
+        ]
+    },
+    {
+        "id": "5e1a38b0d2835bd3",
+        "type": "delay",
+        "z": "5cbb198b56d0ecba",
+        "g": "81490862a5ebe59c",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 2980,
+        "y": 300,
+        "wires": [
+            [
+                "d20d46cd6b32f14d"
+            ]
+        ]
+    },
+    {
+        "id": "2dce87089532c350",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "81490862a5ebe59c",
+        "name": "Set Hopper Value - 1",
+        "func": "\nmsg.value = 1\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3260,
+        "y": 140,
+        "wires": [
+            [
+                "e2aa371c4dca5c15",
+                "03bf62140150c921"
+            ]
+        ]
+    },
+    {
+        "id": "e2aa371c4dca5c15",
+        "type": "ui_gauge",
+        "z": "5cbb198b56d0ecba",
+        "g": "81490862a5ebe59c",
+        "name": "HOPPER INJECT",
+        "group": "a9fdbdc4a3d93ad3",
+        "order": 5,
+        "width": 8,
+        "height": 5,
+        "gtype": "gage",
+        "title": "HOPPER INJECT",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#d53939"
+        ],
+        "seg1": "0",
+        "seg2": "1",
+        "className": "",
+        "x": 3670,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "03bf62140150c921",
+        "type": "delay",
+        "z": "5cbb198b56d0ecba",
+        "g": "81490862a5ebe59c",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 3360,
+        "y": 200,
+        "wires": [
+            [
+                "28f87896fb47c0a3"
+            ]
+        ]
+    },
+    {
+        "id": "28f87896fb47c0a3",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "81490862a5ebe59c",
+        "name": "Set Hopper value - 0",
+        "func": "\nmsg.value = 0\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3560,
+        "y": 200,
+        "wires": [
+            [
+                "e2aa371c4dca5c15"
+            ]
+        ]
+    },
+    {
+        "id": "8d10301c4aa4125e",
+        "type": "comment",
+        "z": "5cbb198b56d0ecba",
+        "g": "81490862a5ebe59c",
+        "name": "Hops in - No coding  >>>>>>>>>",
+        "info": "",
+        "x": 2890,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "269dcaadba0d8c7c",
+        "type": "link in",
+        "z": "5cbb198b56d0ecba",
+        "g": "81490862a5ebe59c",
+        "name": "Start",
+        "links": [
+            "8d7d11225b815552"
+        ],
+        "x": 2785,
+        "y": 140,
+        "wires": [
+            [
+                "d20d46cd6b32f14d"
+            ]
+        ]
+    },
+    {
+        "id": "d20d46cd6b32f14d",
+        "type": "gate",
+        "z": "5cbb198b56d0ecba",
+        "g": "81490862a5ebe59c",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 2970,
+        "y": 140,
+        "wires": [
+            [
+                "2dce87089532c350",
+                "7d03367ddd888060"
+            ]
+        ]
+    },
+    {
+        "id": "753be7bd1828fcb8",
+        "type": "link in",
+        "z": "5cbb198b56d0ecba",
+        "g": "81490862a5ebe59c",
+        "name": "link in 1",
+        "links": [
+            "8e5e832a3c0751ae"
+        ],
+        "x": 2785,
+        "y": 200,
+        "wires": [
+            [
+                "d20d46cd6b32f14d"
+            ]
+        ]
+    },
+    {
+        "id": "77e1d3e503fd33a7",
+        "type": "comment",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "Swirl and Mash - No coding  >>>>>>>>>",
+        "info": "",
+        "x": 1410,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "a0f31ba79af9fc36",
+        "type": "ui_gauge",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "SWIRL",
+        "group": "bcd9a2dd96c5ec1b",
+        "order": 2,
+        "width": 8,
+        "height": 7,
+        "gtype": "donut",
+        "title": "SWIRL",
+        "label": "Rotations",
+        "format": "{{value | number}}",
+        "min": 0,
+        "max": "1000",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "45",
+        "seg2": "85",
+        "className": "",
+        "x": 2420,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "e94ae38c4598aefa",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "Set SWIRL Gauge value - 1000",
+        "func": "\nmsg.value = 1000\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1910,
+        "y": 260,
+        "wires": [
+            [
+                "a0f31ba79af9fc36",
+                "19b957a3e88bc88a",
+                "95d8c8b5b770de36"
+            ]
+        ]
+    },
+    {
+        "id": "19b957a3e88bc88a",
+        "type": "delay",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1600,
+        "y": 340,
+        "wires": [
+            [
+                "521d2501979d0ef7"
+            ]
+        ]
+    },
+    {
+        "id": "d6c49f3987ab1382",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "Set MASH Gauge Value - 1",
+        "func": "\nmsg.value = 1\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1860,
+        "y": 100,
+        "wires": [
+            [
+                "d7ba3b3233cdb426",
+                "c0c23d504017a1aa"
+            ]
+        ]
+    },
+    {
+        "id": "d7ba3b3233cdb426",
+        "type": "ui_gauge",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "MASH",
+        "group": "bcd9a2dd96c5ec1b",
+        "order": 1,
+        "width": 8,
+        "height": 6,
+        "gtype": "gage",
+        "title": "MASAH",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#d53939"
+        ],
+        "seg1": "0",
+        "seg2": "1",
+        "className": "",
+        "x": 2390,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "c0c23d504017a1aa",
+        "type": "delay",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1960,
+        "y": 220,
+        "wires": [
+            [
+                "cfc834ccb42ba7f3"
+            ]
+        ]
+    },
+    {
+        "id": "cfc834ccb42ba7f3",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "Set Mash Gauge Value - 0",
+        "func": "\nmsg.value = 0\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2180,
+        "y": 240,
+        "wires": [
+            [
+                "d7ba3b3233cdb426"
+            ]
+        ]
+    },
+    {
+        "id": "a148f376f79116fb",
+        "type": "link in",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "Start",
+        "links": [
+            "8d7d11225b815552"
+        ],
+        "x": 1265,
+        "y": 160,
+        "wires": [
+            [
+                "319030fe7aa776a3"
+            ]
+        ]
+    },
+    {
+        "id": "521d2501979d0ef7",
+        "type": "gate",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 1630,
+        "y": 220,
+        "wires": [
+            [
+                "d6c49f3987ab1382",
+                "e94ae38c4598aefa"
+            ]
+        ]
+    },
+    {
+        "id": "fa47bf149963e2cd",
+        "type": "link in",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "link in 2",
+        "links": [
+            "8e5e832a3c0751ae"
+        ],
+        "x": 1345,
+        "y": 260,
+        "wires": [
+            [
+                "521d2501979d0ef7"
+            ]
+        ]
+    },
+    {
+        "id": "95d8c8b5b770de36",
+        "type": "delay",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1980,
+        "y": 340,
+        "wires": [
+            [
+                "67adbd86d462e2f6"
+            ]
+        ]
+    },
+    {
+        "id": "67adbd86d462e2f6",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "Set Swirl gauge value - 0",
+        "func": "\nmsg.value = 0\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2210,
+        "y": 340,
+        "wires": [
+            [
+                "a0f31ba79af9fc36"
+            ]
+        ]
+    },
+    {
+        "id": "319030fe7aa776a3",
+        "type": "delay",
+        "z": "5cbb198b56d0ecba",
+        "g": "60f1331fb7404f9c",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1420,
+        "y": 160,
+        "wires": [
+            [
+                "521d2501979d0ef7"
+            ]
+        ]
+    },
+    {
+        "id": "14d2215cc13e881d",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 1380,
+        "y": 1300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c5b28f7838de964a",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "F insert a ROW",
+        "func": "\n// Variables for the 'BOIL' station to be \n// used throughout the flow\n\nvar valuef = flow.get('bvaluef') || 0;\nvar lossf = flow.get('blossf') || 0;\nvar valuexx = flow.get('bvaluexx') || 0;\n\nlet payloadin = valuexx\nlet station = \"BOIL\"\n\nlet payloadout = `INSERT INTO  IUGRED_65.brewtrans VALUES(current_date, current_time, '${station}', ${payloadin});`\n\n\nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1160,
+        "y": 1320,
+        "wires": [
+            [
+                "14d2215cc13e881d",
+                "b51ea682ac323053"
+            ]
+        ]
+    },
+    {
+        "id": "b51ea682ac323053",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "Report to table on UI",
+        "func": "\nlet limit = msg.limit\n\nlet payloadout = `(select * from IUGRED_65.Brewtrans where process_name = 'BOIL'\nORDER BY last_update DESC, registered_at DESC limit ${limit}) \nORDER BY last_update ASC, registered_at ASC;` \n\n\nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1400,
+        "y": 1400,
+        "wires": [
+            [
+                "9a0f7edb75322bdc"
+            ]
+        ]
+    },
+    {
+        "id": "405a3876f228745a",
+        "type": "ui_table",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "group": "f3541e7e0f25e97d",
+        "name": "Brew flow log",
+        "order": 2,
+        "width": 8,
+        "height": 7,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 1850,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "4eb6a37b0b3972f5",
+        "type": "gate",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 610,
+        "y": 1320,
+        "wires": [
+            [
+                "0d524272b905f5ce"
+            ]
+        ]
+    },
+    {
+        "id": "b629dabc2e5d37ea",
+        "type": "inject",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "Close Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "close",
+        "payloadType": "str",
+        "x": 380,
+        "y": 1320,
+        "wires": [
+            [
+                "4eb6a37b0b3972f5"
+            ]
+        ]
+    },
+    {
+        "id": "73f221ceeaa351e4",
+        "type": "inject",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "Open Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "open",
+        "payloadType": "str",
+        "x": 340,
+        "y": 1200,
+        "wires": [
+            [
+                "4eb6a37b0b3972f5"
+            ]
+        ]
+    },
+    {
+        "id": "9a0f7edb75322bdc",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 1580,
+        "y": 1400,
+        "wires": [
+            [
+                "405a3876f228745a"
+            ]
+        ]
+    },
+    {
+        "id": "b7479b4c4c16bd65",
+        "type": "ui_gauge",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "Brew Temperature",
+        "group": "f3541e7e0f25e97d",
+        "order": 1,
+        "width": 8,
+        "height": 9,
+        "gtype": "gage",
+        "title": "Brew Temperature",
+        "label": "units",
+        "format": "{{temp}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "45",
+        "seg2": "85",
+        "className": "",
+        "x": 1370,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "bc0427dabc9e5e9d",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "Heat Loss",
+        "func": "\n// Variables for the 'BOIL' station to be \n// used throughout the flow\n\nvar valuef = flow.get('bvaluef') || 0;\nvar lossf = flow.get('blossf') || 0;\nvar valuexx = flow.get('bvaluexx') || 0;\n\nconst bal = valuexx - lossf\n\nflow.set('bvaluexx', bal)\n\nlet gauge = bal * 1\n\nmsg.temp = bal\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 960,
+        "y": 1320,
+        "wires": [
+            [
+                "c5b28f7838de964a",
+                "bff9491802d22c98",
+                "b7479b4c4c16bd65",
+                "733c338e6b15aeae"
+            ]
+        ]
+    },
+    {
+        "id": "bff9491802d22c98",
+        "type": "delay",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 820,
+        "y": 1400,
+        "wires": [
+            [
+                "4eb6a37b0b3972f5"
+            ]
+        ]
+    },
+    {
+        "id": "68e2f55eb2f314a8",
+        "type": "comment",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "The Process - BOIL",
+        "info": "",
+        "x": 870,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "0d524272b905f5ce",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "Therms in",
+        "func": "\n// Variables for the 'BOIL' station to be \n// used throughout the flow\n\nvar valuef = flow.get('bvaluef') || 0;\nvar lossf = flow.get('blossf') || 0;\nvar valuexx = flow.get('bvaluexx') || 0;\nvar adjust = global.get('adjust') || 0;\n\nlet bal = valuexx + valuef + adjust\n\nflow.set('bvaluexx', bal)\n\nmsg.temp = bal\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 780,
+        "y": 1320,
+        "wires": [
+            [
+                "bc0427dabc9e5e9d"
+            ]
+        ]
+    },
+    {
+        "id": "8d21e932e095cfc5",
+        "type": "comment",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "BOIL Station",
+        "info": "",
+        "x": 190,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "c1a807191e38f919",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 740,
+        "y": 1140,
+        "wires": [
+            [
+                "990dcbeb9da6d41a"
+            ]
+        ]
+    },
+    {
+        "id": "c13c1812018407a2",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "Set SQL for BOIL",
+        "func": "\n// Define the variables for the 'WATER' station to be \n// used throughout the flow.  Set the start values\n\nvar valuef = flow.get('bvaluef') || 0;\nvar lossf = flow.get('bossf') || 0;\nvar valuexx = flow.get('bvaluexx') || 60;\n\nflow.set('bvaluef', 0)\nflow.set('blossf', 0)\nflow.set('bvaluexx', 60)\n\nlet payloadout = `(select * from IUGRED_65.Brewctl where PROCESS_NAME = 'BOIL'\n);`\n\nmsg.payload = payloadout\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 1140,
+        "wires": [
+            [
+                "c1a807191e38f919"
+            ]
+        ]
+    },
+    {
+        "id": "990dcbeb9da6d41a",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "Set Start valies for BOIL",
+        "func": "\n// Variables for the 'WATER' station to be \n// used throughout the flow\n\nvar valuef = flow.get('bvaluef') || 0;\nvar lossf = flow.get('blossf') || 0;\nvar valuexx = flow.get('bvaluexx') || 0;\nvar adjust = flow.get('adjust') || 0;\n\nlet payload = msg.payload\nlet workwaterin = payload[0].PROCESS_INPUT;\nlet workwaterloss = payload[0].PROCESS_LOSSES;\n\nconst wkboilin = parseInt(workwaterin) \nconst wkboilloss = parseInt(workwaterloss) \n\nlet adjusted = wkboilin + adjust\n\nflow.set('bvaluef', adjusted)\nflow.set('blossf', wkboilloss)\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 1140,
+        "wires": [
+            [
+                "4eb6a37b0b3972f5"
+            ]
+        ]
+    },
+    {
+        "id": "e7618ea372fb2237",
+        "type": "comment",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "BOIL Starting Values - From table as set by production qty",
+        "info": "",
+        "x": 810,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "bfc5794ba13c1ee0",
+        "type": "link in",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "Open Gate",
+        "links": [
+            "8e5e832a3c0751ae"
+        ],
+        "x": 85,
+        "y": 1380,
+        "wires": [
+            [
+                "dda6d57b2dde301d",
+                "8b9437a18ef2870d",
+                "4eb6a37b0b3972f5"
+            ]
+        ]
+    },
+    {
+        "id": "84430817d8e8eda3",
+        "type": "comment",
+        "z": "5cbb198b56d0ecba",
+        "g": "17c1a86d48ce032b",
+        "name": "Manual Overrides",
+        "info": "",
+        "x": 370,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "f09cb5d97fd3de98",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 1620,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "11d789d2ea2587d9",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "name": "F insert a ROW",
+        "func": "\n// Variables for the 'WATER' station to be \n// used throughout the flow\n\nvar valuef = flow.get('wvaluef') || 0;\nvar lossf = flow.get('wlossf') || 0;\nvar valuexx = flow.get('wvaluexx') || 0;\n\nlet payloadin = valuexx\nlet station = \"WATER\"\n\nlet payloadout = `INSERT INTO  IUGRED_65.brewtrans VALUES(current_date, current_time, '${station}', ${payloadin});`\n\nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1360,
+        "y": 740,
+        "wires": [
+            [
+                "f09cb5d97fd3de98",
+                "c18fa8e2bcd1673c"
+            ]
+        ]
+    },
+    {
+        "id": "c18fa8e2bcd1673c",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "name": "Report to table on UI",
+        "func": "\nlet limit = \"0\"\n\nlimit = msg.limit\n\n\nlet payloadout = `(select * from IUGRED_65.Brewtrans where process_name = 'WATER'\nORDER BY last_update DESC, registered_at DESC limit ${limit}) \nORDER BY last_update ASC, registered_at ASC;` \n \nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1700,
+        "y": 720,
+        "wires": [
+            [
+                "5bb7af43402c7333"
+            ]
+        ]
+    },
+    {
+        "id": "403120b64cb055ec",
+        "type": "ui_table",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "group": "e207eea38c442aee",
+        "name": "Brew water log",
+        "order": 2,
+        "width": 8,
+        "height": 7,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 1840,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "8b9437a18ef2870d",
+        "type": "gate",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 650,
+        "y": 720,
+        "wires": [
+            [
+                "9c52f03bf0dcea77"
+            ]
+        ]
+    },
+    {
+        "id": "742768dd39526713",
+        "type": "inject",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "name": "Close Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "close",
+        "payloadType": "str",
+        "x": 360,
+        "y": 740,
+        "wires": [
+            [
+                "8b9437a18ef2870d"
+            ]
+        ]
+    },
+    {
+        "id": "c81ad9043fbcb93d",
+        "type": "inject",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "name": "Open Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "open",
+        "payloadType": "str",
+        "x": 360,
+        "y": 680,
+        "wires": [
+            [
+                "8b9437a18ef2870d"
+            ]
+        ]
+    },
+    {
+        "id": "5bb7af43402c7333",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 1660,
+        "y": 860,
+        "wires": [
+            [
+                "403120b64cb055ec"
+            ]
+        ]
+    },
+    {
+        "id": "913235b69d45632c",
+        "type": "ui_gauge",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "name": "Brew Water",
+        "group": "e207eea38c442aee",
+        "order": 1,
+        "width": 8,
+        "height": 9,
+        "gtype": "wave",
+        "title": "Brew Water",
+        "label": "Litres",
+        "format": "{{value | number}}",
+        "min": 0,
+        "max": "150",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "45",
+        "seg2": "85",
+        "diff": false,
+        "className": "",
+        "x": 1230,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "a72b41353c54ac10",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "name": "Water Consumed",
+        "func": "\n// Variables for the 'WATER' station to be \n// used throughout the flow\n\nvar valuef = flow.get('wvaluef') || 0;\nvar lossf = flow.get('wlossf') || 0;\nvar valuexx = flow.get('wvaluexx') || 0;\nvar vsafety = flow.get('bvaluexx') || 0;\n\n//Set min water level\nlet bal = 80\n\n// Boiler Blow Control\nif (vsafety >= 80 && vsafety <= 90) {\n\nbal = valuexx - lossf\nflow.set('wvaluexx', bal)\n\n}\n\nmsg.value = bal\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1070,
+        "y": 720,
+        "wires": [
+            [
+                "11d789d2ea2587d9",
+                "913235b69d45632c",
+                "ebd668ee4afe4021",
+                "caf540bb2b155243"
+            ]
+        ]
+    },
+    {
+        "id": "ebd668ee4afe4021",
+        "type": "delay",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 880,
+        "y": 820,
+        "wires": [
+            [
+                "8b9437a18ef2870d"
+            ]
+        ]
+    },
+    {
+        "id": "9c52f03bf0dcea77",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "name": "Water Fill",
+        "func": "\n// Variables for the 'WATER' station to be \n// used throughout the flow\n\nvar valuef = flow.get('wvaluef') || 0;\nvar lossf = flow.get('wlossf') || 0;\nvar valuexx = flow.get('wvaluexx') || 80;\nvar vsafety = flow.get('bvaluexx') || 0;\n\n// Boiler Blow Control\n\nif (vsafety >= 80  && vsafety <= 90) {\n   \nlet bal = valuexx + valuef\n\nflow.set('wvaluexx', bal)\n\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 840,
+        "y": 720,
+        "wires": [
+            [
+                "a72b41353c54ac10"
+            ]
+        ]
+    },
+    {
+        "id": "0ead08b148e53355",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 840,
+        "y": 600,
+        "wires": [
+            [
+                "c1d5a59ab154e790"
+            ]
+        ]
+    },
+    {
+        "id": "24b018d9769d313c",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "name": "Set SQL for WATER",
+        "func": "\n// Define the variables for the 'WATER' station to be \n// used throughout the flow.  Set the start values\n\nvar valuef = flow.get('wvaluef') || 0;\nvar lossf = flow.get('wlossf') || 0;\nvar valuexx = flow.get('wvaluexx') || 80;\n\nflow.set('wvaluef', 0)\nflow.set('wlossf', 0)\nflow.set('wvaluexx', 80)\n\nlet payloadout = `(select * from IUGRED_65.Brewctl where PROCESS_NAME = 'WATER'\n);`\n\nmsg.payload = payloadout\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 600,
+        "wires": [
+            [
+                "0ead08b148e53355"
+            ]
+        ]
+    },
+    {
+        "id": "c1d5a59ab154e790",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "d0c4edfad7a152e8",
+        "name": "Set Start values for WATER",
+        "func": "\n// Variables for the 'WATER' station to be \n// used throughout the flow\n\nvar valuef = flow.get('wvaluef') || 0;\nvar lossf = flow.get('wlossf') || 0;\nvar valuexx = flow.get('wvaluexx') || 80;\n\nlet payload = msg.payload\nlet workwaterin = payload[0].PROCESS_INPUT;\nlet workwaterloss = payload[0].PROCESS_LOSSES;\n\nconst wkwaterin = parseInt(workwaterin) \nconst wkwaterloss = parseInt(workwaterloss) \n\nflow.set('wvaluef', wkwaterin)\nflow.set('wlossf', wkwaterloss)\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1060,
+        "y": 600,
+        "wires": [
+            [
+                "8b9437a18ef2870d"
+            ]
+        ]
+    },
+    {
+        "id": "f0b5a4cf06393bc4",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 680,
+        "y": 120,
+        "wires": [
+            [
+                "8e6bd1e16fc73431"
+            ]
+        ]
+    },
+    {
+        "id": "c8a3e326b64b8bba",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "name": "Pick up Cases Demand",
+        "func": "\n// Define the variables for the 'BOIL' station to be \n// used throughout the flow.  Set to start values.\n\nvar valuef = flow.get('valuef') || 0;\nvar lossf = flow.get('lossf') || 0;\nvar valuexx = flow.get('valuexx') || 0;\n\nflow.set('valuef', 0)\nflow.set('lossf', 0)\nflow.set('valuexx', 60)\n\nlet payloadout = `(select * from IUGRED_65.Brewctl where PROCESS_NAME = 'CASES');`\n\nmsg.payload = payloadout\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 180,
+        "wires": [
+            [
+                "f0b5a4cf06393bc4"
+            ]
+        ]
+    },
+    {
+        "id": "8e6bd1e16fc73431",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "name": "Get file values",
+        "func": "\n// Variables for the 'BOIL' station to be \n// used throughout the flow\n\nvar valuef = flow.get('valuef') || 0;\nvar lossf = flow.get('lossf') || 0;\nvar valuexx = flow.get('valuexx') || 0;\n\nflow.set('valuef', 0)\nflow.set('lossf', 0)\nflow.set('valuexx', 60)\n\nlet payload = msg.payload\nlet station = payload\nlet workcases = 0\n\n\n    workcases = station[0].PROCESS_LOSSES\n    \n    \n\nconst wkcases = parseInt(workcases)\n   \nlet outboil = 3 * wkcases\nlet outwater = 10 * wkcases\n\n\nmsg.payload = `update IUGRED_65.brewctl set PROCESS_LOSSES = ${outboil} where PROCESS_NAME = 'BOIL' `\nmsg.payload2 = `update IUGRED_65.brewctl set PROCESS_LOSSES = ${outwater} where PROCESS_NAME = 'WATER' `\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 780,
+        "y": 220,
+        "wires": [
+            [
+                "28d7d9ba7bb0fead",
+                "66cec12e77daa14d"
+            ]
+        ]
+    },
+    {
+        "id": "28d7d9ba7bb0fead",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 980,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "66cec12e77daa14d",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "name": "Get file values",
+        "func": "msg.payload = msg.payload2\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 380,
+        "wires": [
+            [
+                "eb91550830c96fe4",
+                "24b018d9769d313c",
+                "6d31dff4d5dbea16",
+                "c13c1812018407a2"
+            ]
+        ]
+    },
+    {
+        "id": "eb91550830c96fe4",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 1020,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8e5e832a3c0751ae",
+        "type": "link out",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "name": "Open Gate",
+        "mode": "link",
+        "links": [
+            "fa47bf149963e2cd",
+            "753be7bd1828fcb8",
+            "bfc5794ba13c1ee0"
+        ],
+        "x": 535,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "8d7d11225b815552",
+        "type": "link out",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "name": "Start",
+        "mode": "link",
+        "links": [
+            "269dcaadba0d8c7c",
+            "a148f376f79116fb",
+            "b01ebb62392cdfb4",
+            "e75c512031f81bbc"
+        ],
+        "x": 725,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "1547f082482c5abc",
+        "type": "delay",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 460,
+        "y": 280,
+        "wires": [
+            [
+                "8d7d11225b815552"
+            ]
+        ]
+    },
+    {
+        "id": "692465fd0d67e285",
+        "type": "ui_button",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "name": "",
+        "group": "a9fdbdc4a3d93ad3",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Start Production ",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 220,
+        "y": 100,
+        "wires": [
+            [
+                "4a09c0a1f868a70f"
+            ]
+        ]
+    },
+    {
+        "id": "930a7672bb470551",
+        "type": "ui_button",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "name": "",
+        "group": "a9fdbdc4a3d93ad3",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Open Get",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "toggle",
+        "payloadType": "str",
+        "topic": "control",
+        "topicType": "str",
+        "x": 160,
+        "y": 320,
+        "wires": [
+            [
+                "8e5e832a3c0751ae"
+            ]
+        ]
+    },
+    {
+        "id": "4a09c0a1f868a70f",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "82a5b069f7aa3d84",
+        "name": "function 71",
+        "func": "msg.payload = new Date().getTime();  // Current timestamp\nmsg.payload2 = \"0\";  // String\nmsg.limit = 10;  // Number (used in SQL LIMIT)\nmsg.value = 0;  // Number\nmsg.temp = 0;  // Number\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 250,
+        "y": 200,
+        "wires": [
+            [
+                "c8a3e326b64b8bba",
+                "1547f082482c5abc"
+            ]
+        ]
+    },
+    {
+        "id": "6cb616eb384a573f",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 1540,
+        "y": 1800,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7cd96557122ca734",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "F insert a ROW",
+        "func": "\n// Variables for the 'CASES' station to be \n// used throughout the flow\n\nvar valuef = flow.get('cvaluef') || 0;\nvar lossf = flow.get('clossf') || 0;\nvar valuexx = flow.get('cvaluexx') || 0;\n\nlet payloadin = valuexx\nlet station = \"CASES\"\n\nlet payloadout = `INSERT INTO  IUGRED_65.brewtrans VALUES(current_date, current_time, '${station}', ${payloadin});`\n\nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1180,
+        "y": 1800,
+        "wires": [
+            [
+                "6cb616eb384a573f",
+                "9eb9b9506a37189a"
+            ]
+        ]
+    },
+    {
+        "id": "9eb9b9506a37189a",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "Report to table on UI",
+        "func": "\nlet limit = \"0\"\n\nlimit = msg.limit\n\n\nlet payloadout = `(select * from IUGRED_65.Brewtrans where process_name = 'CASES'\nORDER BY last_update DESC, registered_at DESC limit ${limit}) \nORDER BY last_update ASC, registered_at ASC;` \n \nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1480,
+        "y": 1880,
+        "wires": [
+            [
+                "79c4eff12cfe3f17"
+            ]
+        ]
+    },
+    {
+        "id": "706e2fc1cc9dd88a",
+        "type": "ui_table",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "group": "0121d1e0e4260008",
+        "name": "Cases and Bottles out",
+        "order": 4,
+        "width": 8,
+        "height": 6,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 1960,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "dda6d57b2dde301d",
+        "type": "gate",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 410,
+        "y": 1800,
+        "wires": [
+            [
+                "3234548cfed458c6"
+            ]
+        ]
+    },
+    {
+        "id": "29c4da600337a3b6",
+        "type": "inject",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "Close Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "close",
+        "payloadType": "str",
+        "x": 140,
+        "y": 1820,
+        "wires": [
+            [
+                "dda6d57b2dde301d"
+            ]
+        ]
+    },
+    {
+        "id": "9baaec4fa9d87fe0",
+        "type": "inject",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "Open Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "open",
+        "payloadType": "str",
+        "x": 140,
+        "y": 1740,
+        "wires": [
+            [
+                "dda6d57b2dde301d"
+            ]
+        ]
+    },
+    {
+        "id": "79c4eff12cfe3f17",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 1700,
+        "y": 1880,
+        "wires": [
+            [
+                "706e2fc1cc9dd88a"
+            ]
+        ]
+    },
+    {
+        "id": "346c38b1ebc9bff7",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "Beer Out (Case = 10 botles)",
+        "func": "\n// Variables for the 'Case' station to be \n// used throughout the flow\n\nvar valuef = flow.get('cvaluef') || 0;\nvar temploss = flow.get('blossf') || 0;\nvar lossf = flow.get('clossf') || 0;\nvar valuexx = flow.get('cvaluexx') || 0;\nvar crateload = flow.get('crateload') || 0;\nvar vsafety = flow.get('bvaluexx') || 0;\n\n\nconst bal = (lossf * 10) + valuexx\nconst crate = (lossf * 10) + crateload\nvsafety = vsafety - temploss\n\n\n// Boiler Blow Control\nif (vsafety >= 80 && vsafety <= 90) {\n\n    flow.set('crateload', crate)\n    flow.set('cvaluexx', bal)\n\n}\n\nmsg.value = bal\nmsg.topic = crate\nmsg.payload = (lossf * 10)\nmsg.temploss = vsafety \n\nreturn msg;\n\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 1800,
+        "wires": [
+            [
+                "7cd96557122ca734",
+                "05bc2192584c2192",
+                "7096eb42ae5c1d18",
+                "1b5b292f5a6a50d0",
+                "e6e8a7a6807cc899",
+                "b169f4365db16a90"
+            ]
+        ]
+    },
+    {
+        "id": "1b5b292f5a6a50d0",
+        "type": "delay",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 620,
+        "y": 1920,
+        "wires": [
+            [
+                "dda6d57b2dde301d"
+            ]
+        ]
+    },
+    {
+        "id": "3234548cfed458c6",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "Empty Cases In",
+        "func": "\n// Variables for the 'CASES' station to be \n// used throughout the flow\n\nvar valuef = flow.get('cvaluef') || 0;\nvar lossf = flow.get('clossf') || 0;\nvar valuexx = flow.get('cvaluexx') || 0;\n\n// no accounting at this time\n//     let bal = valuexx + valuef\n\n//     flow.set('cvaluexx', bal)\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1800,
+        "wires": [
+            [
+                "346c38b1ebc9bff7"
+            ]
+        ]
+    },
+    {
+        "id": "e840e9c259cd163e",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 700,
+        "y": 1620,
+        "wires": [
+            [
+                "29743140224674e6"
+            ]
+        ]
+    },
+    {
+        "id": "6d31dff4d5dbea16",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "Set SQL for Case Production",
+        "func": "\n// Define the variables for the 'BOIL' station to be \n// used throughout the flow. Set the start values\n\nvar valuef = flow.get('cvaluef') || 0;\nvar lossf = flow.get('clossf') || 0;\nvar valuexx = flow.get('cvaluexx') || 0;\n\nflow.set('cvaluef', 0)\nflow.set('clossf', 0)\nflow.set('cvaluexx', 0)\n\nlet payloadout = `(select * from IUGRED_65.Brewctl where PROCESS_NAME = 'CASES');`\n\nmsg.payload = payloadout\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 1620,
+        "wires": [
+            [
+                "e840e9c259cd163e"
+            ]
+        ]
+    },
+    {
+        "id": "c54dc80325e4f865",
+        "type": "comment",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "CASES Station",
+        "info": "",
+        "x": 140,
+        "y": 1620,
+        "wires": []
+    },
+    {
+        "id": "29743140224674e6",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "Set Start values for Case production",
+        "func": "\n// Variables for the 'CASES' station to be \n// used throughout the flow\n\nvar valuef = flow.get('cvaluef') || 0;\nvar lossf = flow.get('clossf') || 0;\nvar valuexx = flow.get('cvaluexx') || 0;\nvar crateload = flow.get('crateload') || 0;\n\nlet payload = msg.payload\nlet workcasesin = payload[0].PROCESS_INPUT;\nlet workcasesloss = payload[0].PROCESS_LOSSES;\n\nconst wkcasesin = parseInt(workcasesin) \nconst wkcasesloss = parseInt(workcasesloss) \n\nflow.set('cvaluef', wkcasesin)\nflow.set('clossf', wkcasesloss)\nflow.set('crateload', 0)\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 1620,
+        "wires": [
+            [
+                "dda6d57b2dde301d"
+            ]
+        ]
+    },
+    {
+        "id": "581ba149ddbed4d9",
+        "type": "ui_chart",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "",
+        "group": "0121d1e0e4260008",
+        "order": 3,
+        "width": 8,
+        "height": 4,
+        "label": "CASES LOADED INTO VAN (Max 10)",
+        "chartType": "bar",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "1",
+        "ymax": "11",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": true,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1250,
+        "y": 2040,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "decc02ccf16744ec",
+        "type": "ui_led",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "order": 2,
+        "group": "0121d1e0e4260008",
+        "width": 8,
+        "height": 2,
+        "label": "van fully loaded indicator",
+        "labelPlacement": "right",
+        "labelAlignment": "center",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "Vanload indicator",
+        "x": 1870,
+        "y": 2160,
+        "wires": []
+    },
+    {
+        "id": "7096eb42ae5c1d18",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "Reset indicator if Van full",
+        "func": "\n// Variables for the 'WATER' station to be \n// used throughout the flow\n\nvar valuef = flow.get('cvaluef') || 0;\nvar lossf = flow.get('clossf') || 0;\nvar valuexx = flow.get('cvaluexx') || 0;\nvar crateload = flow.get('crateload') || 0;\n\nconst resett = 0\n\nmsg.payload = false;\n\nif (crateload >= 100)  {\n\nmsg.payload = true;\n\n    return [msg, null]; \n\n}\n\nelse {\n\n    return [null, msg]; \n\n}\n",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1050,
+        "y": 2260,
+        "wires": [
+            [
+                "acf8e3efbce9556b",
+                "c45d16d4be3d6b92"
+            ],
+            [
+                "acf8e3efbce9556b"
+            ]
+        ]
+    },
+    {
+        "id": "acf8e3efbce9556b",
+        "type": "json",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "",
+        "property": "payload",
+        "action": "obj",
+        "pretty": false,
+        "x": 1570,
+        "y": 2360,
+        "wires": [
+            [
+                "decc02ccf16744ec",
+                "32bc5dbcbb7d92a9"
+            ]
+        ]
+    },
+    {
+        "id": "c45d16d4be3d6b92",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "Reset if van full (10 cases)",
+        "func": "\n// Variables for the 'WATER' station to be \n// used throughout the flow\n\nvar valuef = flow.get('cvaluef') || 0;\nvar lossf = flow.get('clossf') || 0;\nvar valuexx = flow.get('cvaluexx') || 0;\nvar crateload = flow.get('crateload') || 0;\nvar delever = false;\nvar resett = 0\n\nif (crateload >= 100) {\n \n    msg.payload = ([])\n    resett = crateload - 100\n    flow.set('crateload', resett)\n    delever = true\n      \n    }else{\n        return null;\n    }\n\nmsg.delever = delever\n\nreturn msg;\n\n\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1500,
+        "y": 2240,
+        "wires": [
+            [
+                "cec1d25559945bd7",
+                "8ead4a9c663c0f45",
+                "f84e0bbc47ed1415"
+            ]
+        ]
+    },
+    {
+        "id": "51792269e36399ae",
+        "type": "inject",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "Send [] to Clear",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "[]",
+        "payloadType": "json",
+        "x": 820,
+        "y": 2040,
+        "wires": [
+            [
+                "581ba149ddbed4d9"
+            ]
+        ]
+    },
+    {
+        "id": "cec1d25559945bd7",
+        "type": "delay",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1160,
+        "y": 2140,
+        "wires": [
+            [
+                "581ba149ddbed4d9"
+            ]
+        ]
+    },
+    {
+        "id": "05bc2192584c2192",
+        "type": "ui_artlessgauge",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "group": "0121d1e0e4260008",
+        "order": 1,
+        "width": 8,
+        "height": 8,
+        "name": "",
+        "icon": "",
+        "label": "Cases Produced",
+        "unit": "",
+        "layout": "radial",
+        "decimals": 0,
+        "differential": false,
+        "minmax": true,
+        "colorTrack": "#555555",
+        "style": "",
+        "colorFromTheme": true,
+        "property": "value",
+        "secondary": "secondary",
+        "inline": false,
+        "animate": true,
+        "sectors": [
+            {
+                "val": 0,
+                "col": "#ff9900",
+                "t": "min",
+                "dot": 5
+            },
+            {
+                "val": 500,
+                "col": "#ff9900",
+                "t": "max",
+                "dot": 5
+            }
+        ],
+        "lineWidth": "7",
+        "bgcolorFromTheme": true,
+        "diffCenter": "",
+        "x": 1320,
+        "y": 1960,
+        "wires": []
+    },
+    {
+        "id": "e6e8a7a6807cc899",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "Reset Payload for Graph",
+        "func": "msg.payload = msg.topic\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 1940,
+        "wires": [
+            [
+                "581ba149ddbed4d9"
+            ]
+        ]
+    },
+    {
+        "id": "32bc5dbcbb7d92a9",
+        "type": "exec",
+        "z": "5cbb198b56d0ecba",
+        "g": "99cbfbc7d7be8dbb",
+        "command": "env",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 1925,
+        "y": 2380,
+        "wires": [
+            [
+                "248ac54647da0741",
+                "242042e2dbc1b3e4"
+            ],
+            [
+                "248ac54647da0741"
+            ],
+            [
+                "248ac54647da0741"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "8520b509bfab8f5e",
+        "type": "mqtt out",
+        "z": "5cbb198b56d0ecba",
+        "g": "99cbfbc7d7be8dbb",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "24f44718c7af9579",
+        "x": 2155,
+        "y": 2360,
+        "wires": [],
+        "l": false
+    },
+    {
+        "id": "248ac54647da0741",
+        "type": "debug",
+        "z": "5cbb198b56d0ecba",
+        "g": "99cbfbc7d7be8dbb",
+        "name": "debug 237",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2065,
+        "y": 2400,
+        "wires": [],
+        "l": false
+    },
+    {
+        "id": "242042e2dbc1b3e4",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "99cbfbc7d7be8dbb",
+        "name": "function 53",
+        "func": "let user  = ' '\nlet start = msg.payload.search(\"USER\") + 5;\nlet stop = msg.payload.search(\"SHLVL\") - 1;\n\n\nlet currentDate = new Date();\nlet cDay = currentDate.getDate()\nlet cMonth = currentDate.getMonth() + 1\nlet cYear = currentDate.getFullYear()\n\nlet stdate = cYear + \"-\" + cMonth + \"-\" + cDay;\n\nlet sttime = currentDate.getHours() + \":\" + currentDate.getMinutes() + \":\" + currentDate.getSeconds();\n\nvar crates = flow.get('cvaluexx')\nvar temp = flow.get('bvaluexx')\n\nlet diff = stop - start\n\nuser = msg.payload.substr(start, diff )\n\nmsg.topic = user\nmsg.payload = `{\"Student_Number\" : \"${user}\", \"Brew_Temp\": ${temp}, \"Cases_Out\": ${crates}, \"OPDATE\": \"${stdate}\", \"OPTIME\": \"${sttime}\"}`\nconsole.log('payload', msg.payload) \n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2015,
+        "y": 2360,
+        "wires": [
+            [
+                "c845b68895fc0b3c"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "c845b68895fc0b3c",
+        "type": "json",
+        "z": "5cbb198b56d0ecba",
+        "g": "99cbfbc7d7be8dbb",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 2085,
+        "y": 2360,
+        "wires": [
+            [
+                "8520b509bfab8f5e"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "009f86b0d2300728",
+        "type": "comment",
+        "z": "5cbb198b56d0ecba",
+        "g": "99cbfbc7d7be8dbb",
+        "name": "Support:  PEASE DO NOT ALTER THIS CODE",
+        "info": "",
+        "x": 2070,
+        "y": 2300,
+        "wires": []
+    },
+    {
+        "id": "8ead4a9c663c0f45",
+        "type": "debug",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "debug 1019",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1660,
+        "y": 2060,
+        "wires": []
+    },
+    {
+        "id": "b169f4365db16a90",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "function 73",
+        "func": "msg.payload= msg.temploss\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1200,
+        "y": 1680,
+        "wires": [
+            [
+                "4fa43deeab1709c1"
+            ]
+        ]
+    },
+    {
+        "id": "4fa43deeab1709c1",
+        "type": "debug",
+        "z": "5cbb198b56d0ecba",
+        "g": "e2c084068f7559d7",
+        "name": "debug 1021",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1460,
+        "y": 1660,
+        "wires": []
+    },
+    {
+        "id": "6292a7f2a736d2a6",
+        "type": "ui_form",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "",
+        "label": "PRODUCTION",
+        "group": "a9fdbdc4a3d93ad3",
+        "order": 4,
+        "width": 8,
+        "height": 1,
+        "options": [
+            {
+                "label": "Case Production per 5 sec",
+                "value": "cases",
+                "type": "number",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "cases": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "Form",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 2200,
+        "y": 580,
+        "wires": [
+            [
+                "4ff9e2b8e1104934"
+            ]
+        ]
+    },
+    {
+        "id": "6ba6b2175ed8c015",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 2820,
+        "y": 580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4ff9e2b8e1104934",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "F insert a ROW",
+        "func": "\nlet cases = \" \"\n\ncases = msg.payload.cases\n\n\nconst caseout = parseInt(cases) \n\n\nmsg.payload = `update IUGRED_65.brewctl set PROCESS_LOSSES = ${caseout} where PROCESS_NAME = 'CASES' `\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2560,
+        "y": 580,
+        "wires": [
+            [
+                "6ba6b2175ed8c015"
+            ]
+        ]
+    },
+    {
+        "id": "86930e3d6f566250",
+        "type": "ui_slider",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "",
+        "label": "WATER IN Adj.",
+        "tooltip": "",
+        "group": "e207eea38c442aee",
+        "order": 3,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "outs": "end",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": "-100",
+        "max": "80",
+        "step": 1,
+        "className": "",
+        "x": 2500,
+        "y": 820,
+        "wires": [
+            [
+                "fa574a12d908bbb1"
+            ]
+        ]
+    },
+    {
+        "id": "13fbd23e4e0f3ae9",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 3040,
+        "y": 860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fa574a12d908bbb1",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "WATER VARIABLE AND TABLE",
+        "func": "\nlet water = 0\n\nvar valuef = flow.get('wvaluef') || 0;\n\n\nwater = msg.payload\n\n\nflow.set('wvaluef', water)\n\n\nmsg.payload = `update IUGRED_65.brewctl set PROCESS_INPUT = ${water} where PROCESS_NAME = 'WATER' `\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2730,
+        "y": 840,
+        "wires": [
+            [
+                "13fbd23e4e0f3ae9"
+            ]
+        ]
+    },
+    {
+        "id": "39899466b8da44da",
+        "type": "ui_slider",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "",
+        "label": "THERMS IN Adj.",
+        "tooltip": "",
+        "group": "f3541e7e0f25e97d",
+        "order": 3,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "outs": "end",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": "-25",
+        "max": "25",
+        "step": 1,
+        "className": "",
+        "x": 2550,
+        "y": 1300,
+        "wires": [
+            [
+                "4e22f3dbdb936339"
+            ]
+        ]
+    },
+    {
+        "id": "2dc4f9d3f024836e",
+        "type": "DB2 for i",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "mydb": "82af5b804e64615e",
+        "name": "",
+        "arraymode": true,
+        "x": 3080,
+        "y": 1320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4e22f3dbdb936339",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "BOIL VARIABLE AND TABLE",
+        "func": "\nvar adjust = global.get('adjust') || 0;\nlet gas = 0\n\n\ngas = msg.payload\n\nglobal.set(\"adjust\", gas)\n\nmsg.payload = `update IUGRED_65.brewctl set PROCESS_ADJUSTMENT = ${gas} where PROCESS_NAME = 'BOIL' `\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2820,
+        "y": 1320,
+        "wires": [
+            [
+                "2dc4f9d3f024836e"
+            ]
+        ]
+    },
+    {
+        "id": "90c067d72edcf124",
+        "type": "ui_text",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "group": "a9fdbdc4a3d93ad3",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Production Per 5 Second is  ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 2780,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "733c338e6b15aeae",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "Boiler Temp Auto Adujest ",
+        "func": "// Get the current brew temperature (default to 60°C if not set)\nvar brewTemp = flow.get('bvaluexx') ;\nvar tempemail= \"\";\n// Get the thermal loss per cycle\nvar tempLoss = flow.get('blossf') ; \n\nvar tempAdj = tempLoss;\n\n\nif (brewTemp < 80) {\n    tempAdj = (80 - brewTemp) + tempLoss;\n\n} else if (brewTemp > 88) {\n    tempAdj = (90 - brewTemp) - tempLoss ;\n} else {\n    // Handle cases where brewTemp is between 80 and 88\n    switch (tempLoss) {\n        case 3:\n            tempAdj = -2;\n            break;\n        case 6:\n            tempAdj = 1;\n            break;\n        case 9:\n            tempAdj = 4;\n            break;\n        case 12:\n            tempAdj = 7;\n            break;\n        case 15:\n            tempAdj = 10;\n            break;\n        default:\n            tempAdj = 0;  // Default case to avoid undefined variable\n    }\n\n}\n\n\n\n\n\n\n   if (brewTemp > 90){\n       tempemail = `<head><h1>Brewery Temperature is on fire  ${brewTemp} C. </h1></head>`\n   }else if (brewTemp < 80){\n       tempemail = `<h1><head>Brewery Temperature is Low  ${brewTemp} C.</h1> </head>`\n\n   }\n\nmsg.payload = tempAdj \nmsg.brewTemp = tempemail \n\nreturn msg;\n\n\n\n\n\n\n\n\n\n\n// // Get the current brew temperature (default to 60°C if not set)\n// var brewTemp = flow.get('bvaluexx') ;\n\n// // Get the thermal loss per cycle\n// var tempLoss = flow.get('blossf') ; \n\n// var tempAdj = -3;\n\n// brewTemp = brewTemp - tempLoss\n\n\n// if (brewTemp <= 80) {\n//     tempAdj = 80 - brewTemp;\n//     tempAdj = tempAdj+ 2\n\n// } else if (brewTemp > 90){\n//     tempAdj = 88 - brewTemp\n//     tempAdj = tempAdj -3\n// } else if (brewTemp >= 81 && brewTemp < 90 ) {\n//     tempAdj = tempAdj\n    \n// }\n// msg.payload = tempAdj\n\n// return msg;\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2270,
+        "y": 1300,
+        "wires": [
+            [
+                "39899466b8da44da",
+                "73160dd845a329c7"
+            ]
+        ]
+    },
+    {
+        "id": "caf540bb2b155243",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "Water Level Auto adjested ",
+        "func": "var waterbrew = flow.get('wvaluexx') || 0;\nvar waterloss = flow.get('wlossf')\nvar wateradj = waterloss;\nvar waterlevel = \"\";\n\nif (waterbrew <= 60) {\n    wateradj = (80 - waterbrew) + waterloss;  // Adjust for low values\n} else if (waterbrew > 100) {\n    wateradj = 100 - waterbrew;  // Adjust for high values\n} else {\n    wateradj = 0;  // No change if value is between 61 and 100\n}\n\n\nif (waterbrew < 10 ) {\n    waterlevel = `<head> <h1>Brewery Water level  is low  ${waterbrew} l. </h1> </head>`\n} else if (waterbrew > 150) {\n    waterlevel = `<head><h1>Brewery Water level  is High  ${waterbrew} l. </h1></head>`\n\n}\n\nmsg.payload = wateradj\nmsg.waterlevel = waterlevel\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2250,
+        "y": 840,
+        "wires": [
+            [
+                "86930e3d6f566250",
+                "73160dd845a329c7"
+            ]
+        ]
+    },
+    {
+        "id": "857400ea424d297b",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "function 72",
+        "func": "\nvar valuef = flow.get('clossf') || 0;\n\nmsg.payload =  valuef\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2390,
+        "y": 700,
+        "wires": [
+            [
+                "90c067d72edcf124"
+            ]
+        ]
+    },
+    {
+        "id": "e75c512031f81bbc",
+        "type": "link in",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "Start",
+        "links": [
+            "8d7d11225b815552"
+        ],
+        "x": 2135,
+        "y": 700,
+        "wires": [
+            [
+                "857400ea424d297b"
+            ]
+        ]
+    },
+    {
+        "id": "73160dd845a329c7",
+        "type": "function",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "Email ",
+        "func": "\nvar message = msg.brewTemp ? msg.brewTemp.trim() : \"\";\nvar wmessage = msg.waterlevel ? msg.waterlevel.trim() : \"\";\nvar person = \"nidhimonica123@gmail.com\";\n\n// Ignore empty messages\nif (message === \"\" && wmessage === \"\") {\n    return null;\n}\n\n// Create an array to store messages\nvar emails = [];\n\n// Process brewTemp message\nif (message !== \"\") {\n    emails.push({\n        payload: message,\n        topic: \"Brewery Temp Email\",\n        to: person,\n        from: \"iBrew & Co\"\n    });\n}\n\n// Process waterbrew message\nif (wmessage !== \"\") {\n    emails.push({\n        payload: wmessage,\n        topic: \"Brewery Water Level Email\",\n        to: person,\n        from: \"iBrew & Co\"\n    });\n}\n\n// Return multiple messages if both are present, otherwise return a single one\nreturn emails.length === 1 ? emails[0] : emails;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// var message = msg.brewTemp\n// var wmessage = msg.waterbrew\n// var person = \"nidhimonica123@gmail.com\"\n\n\n\n// if (message.trim() === \" \"){\n//     return null;\n// }else {\n// msg.payload = message\n// msg.topic = \"Brewery Temp Email\"; // subject\n// msg.to = person;  // to\n// msg.from = \"iBrew & Co\";  // from\n\n// }\n\n// if (wmessage.trim() === \" \") {\n//     return null;\n// } else {\n//     msg.payload = wmessage\n//     msg.topic = \"Brewery Water level Email\"; // subject\n//     msg.to = person;  // to\n//     msg.from = \"iBrew & Co\";  // from\n\n// }\n\n\n\n\n// return msg;\n\n\n\n\n\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2570,
+        "y": 1040,
+        "wires": [
+            [
+                "b2b4b8f794062e3b",
+                "aa96d05f2b4b2a93"
+            ]
+        ]
+    },
+    {
+        "id": "b2b4b8f794062e3b",
+        "type": "debug",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "name": "debug 1017",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2870,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "aa96d05f2b4b2a93",
+        "type": "e-mail",
+        "z": "5cbb198b56d0ecba",
+        "g": "1b685dff7360ac41",
+        "server": "smtp.gmail.com",
+        "port": "465",
+        "authtype": "BASIC",
+        "saslformat": true,
+        "token": "oauth2Response.access_token",
+        "secure": true,
+        "tls": true,
+        "name": "",
+        "dname": "",
+        "x": 2890,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "20110a21f08e271d",
+        "type": "e-mail",
+        "z": "5cbb198b56d0ecba",
+        "server": "smtp.gmail.com",
+        "port": "465",
+        "authtype": "BASIC",
+        "saslformat": true,
+        "token": "oauth2Response.access_token",
+        "secure": true,
+        "tls": true,
+        "name": "",
+        "dname": "",
+        "x": 1810,
+        "y": 2620,
+        "wires": []
+    },
+    {
+        "id": "bcd9a2dd96c5ec1b",
+        "type": "ui_group",
+        "name": "SWIRL AND MASH",
+        "tab": "2215323be190c922",
+        "order": 5,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "a9fdbdc4a3d93ad3",
+        "type": "ui_group",
+        "name": "Hopper",
+        "tab": "2215323be190c922",
+        "order": 1,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "82af5b804e64615e",
+        "type": "DB2 for i Config",
+        "cnnname": "Monica",
+        "db": "*LOCAL",
+        "keepalive": true
+    },
+    {
+        "id": "f3541e7e0f25e97d",
+        "type": "ui_group",
+        "name": "Brew Temperature Control",
+        "tab": "2215323be190c922",
+        "order": 4,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e207eea38c442aee",
+        "type": "ui_group",
+        "name": "Water Control",
+        "tab": "2215323be190c922",
+        "order": 3,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0121d1e0e4260008",
+        "type": "ui_group",
+        "name": "Case Production",
+        "tab": "2215323be190c922",
+        "order": 7,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "24f44718c7af9579",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "ersc.ddns.net",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "2215323be190c922",
+        "type": "ui_tab",
+        "name": "i-Brew Brewery",
+        "icon": "Hops-In",
+        "disabled": false,
+        "hidden": false
+    }
+]
